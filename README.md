@@ -8,7 +8,6 @@ This project consists of a set of custom electronics prototyping boards designed
 - 2 adjustable voltage test points.
 
 > If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
-> It helps others discover the project and motivates me to keep building and sharing more.
 
 ## 🔹 Rev 1 Construction
 
